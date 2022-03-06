@@ -8,15 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		677FB00F27D27EB7006C5D0D /* ios_cw_5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677FB00E27D27EB7006C5D0D /* ios_cw_5App.swift */; };
-		677FB01127D27EB7006C5D0D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677FB01027D27EB7006C5D0D /* ContentView.swift */; };
 		677FB01327D27EB8006C5D0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 677FB01227D27EB8006C5D0D /* Assets.xcassets */; };
 		677FB01627D27EB8006C5D0D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 677FB01527D27EB8006C5D0D /* Preview Assets.xcassets */; };
+		C0762A1A27D506F5007FD2F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677FB01027D27EB7006C5D0D /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		677FB00B27D27EB7006C5D0D /* ios-cw-5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-cw-5.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		677FB00E27D27EB7006C5D0D /* ios_cw_5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_cw_5App.swift; sourceTree = "<group>"; };
-		677FB01027D27EB7006C5D0D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		677FB01027D27EB7006C5D0D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; wrapsLines = 1; };
 		677FB01227D27EB8006C5D0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		677FB01527D27EB8006C5D0D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				677FB01127D27EB7006C5D0D /* ContentView.swift in Sources */,
+				C0762A1A27D506F5007FD2F0 /* ContentView.swift in Sources */,
 				677FB00F27D27EB7006C5D0D /* ios_cw_5App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
